@@ -9,7 +9,7 @@ else
  puts ' NO, NOT SINCE ' + ( rand(1938)+800).to_s
 end 
 
-if input.chomp == 'BYE'*3
+if input.chomp == 'BYE'
  break
  end
 end
